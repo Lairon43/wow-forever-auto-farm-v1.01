@@ -1,5 +1,8 @@
-https://github.com/Lairon43/wow-forever-auto-farm-v1.01/blob/main/gpt-image-2_A_professional_dark-theme_GitHub_repository_banner_for_a_game_automation_tool._C-0%20(1).jpg
 # 🎮 wow-forever-auto-farm-v1.01
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lairon43/wow-forever-auto-farm-v1.01/main/gpt-image-2_A_professional_dark-theme_GitHub_repository_banner_for_a_game_automation_tool._C-0%20(1).jpg" alt="Banner" width="100%">
+</div>
 
 ![Version](https://img.shields.io/badge/version-1.01-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%2F11-lightgrey)
@@ -47,4 +50,7 @@ Automated farming tool for World of Warcraft Forever (Classic+). This is a compi
 | `F2` | Pause / Resume |
 | `F12` | Emergency Stop (Panic Key) |
 
+## ⚠️ Disclaimer & Warning
+This software is provided "as is". The author is not responsible for any bans, account suspensions, or damages caused by the use of this software. 
+**Automating gameplay violates Blizzard Entertainment's Terms of Service. Using this tool may result in a permanent ban.**
 

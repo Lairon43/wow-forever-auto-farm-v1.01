@@ -46,6 +46,4 @@ Automated farming tool for World of Warcraft Forever (Classic+). This is a compi
 | `F2` | Pause / Resume |
 | `F12` | Emergency Stop (Panic Key) |
 
-## ⚠️ Disclaimer & Warning
-This software is provided "as is". The author is not responsible for any bans, account suspensions, or damages caused by the use of this software. 
-**Automating gameplay violates Blizzard Entertainment's Terms of Service. Using this tool may result in a permanent ban.**
+

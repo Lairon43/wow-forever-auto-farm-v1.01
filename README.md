@@ -1,3 +1,4 @@
+https://github.com/Lairon43/wow-forever-auto-farm-v1.01/blob/main/gpt-image-2_A_professional_dark-theme_GitHub_repository_banner_for_a_game_automation_tool._C-0%20(1).jpg
 # 🎮 wow-forever-auto-farm-v1.01
 
 ![Version](https://img.shields.io/badge/version-1.01-blue)
